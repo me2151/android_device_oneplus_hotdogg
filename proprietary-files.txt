@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted live from 11.0.1.4
+# All unpinned blobs below are extracted live from 11.0.1.6
 
 # ACDB
 vendor/etc/acdbdata/adsp_avs_config.acdb
